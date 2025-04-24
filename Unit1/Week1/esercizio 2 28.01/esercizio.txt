@@ -1,0 +1,76 @@
+INDIRIZZO IP
+
+128.1.6.5/12   (quindi 12 bit network e 20 bit host)
+
+128.0.0.0   IP Network
+
+128.0.0.1   IP Gateway Convenzionale
+
+128.15.255.255   IP Broadcast, (prendiamo l'ottetto che ha l'ultimo 1, quindi in questo caso il secondo ottetto
+                                e trasformiamolo in decimale, 11110000 = 240, usiamo il teorema 256: 256-240= 16)
+ottetti per network 1,5 (12 bit)
+
+ottetti per host 2,5 (20 bit)
+
+------------------------------------------
+
+200.1.2.3/24
+
+200.1.2.0   IP Network
+
+200.1.2.1    IP Gateway
+
+200.1.2.255   IP Broadcast
+
+ottetti per network 3 (24 bit)
+
+ottetti per host 1 (8 bit)
+
+------------------------------------------
+
+192.192.1.1/22   IP
+
+192.192.0.0   IP Network
+
+192.192.0.1   IP Gateway
+
+192.192.3.255     IP Broadcast
+
+22 bit per network e 10 bit per host, 2,8 ottetti per network 1,2 per host
+
+--------------------------------------------
+
+126.5.4.3/9   IP
+
+126.0.0.0      IP Network
+
+126.0.0.1   IP Gateway
+
+126.127.255.255      IP Broadcast
+
+9 bit per network e 23 per host, 1,1 ottetti per network 2,9 per host (approssimato)
+
+---------------------------------------------
+
+200.1.9.8/24   IP
+
+200.1.9.0     IP Network
+
+200.1.9.1   IP Gateway
+
+200.1.9.255     IP Broadcast
+
+24 bit per network e 8 per host, 3 ottetti network, 1 per host
+
+------------------------------------------------------
+172.16.0.4/16    IP
+
+172.16.0.0     IP Network
+
+172.16.0.1   IP Gateway
+
+172.16.255.255     IP Broadcast
+
+16 bit per network e 16 per host, 2 ottetti network e 2 host
+ 
+
