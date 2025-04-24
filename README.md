@@ -56,6 +56,10 @@ Esplorando il contenuto di questa repository, è possibile osservare:
 
 I progetti e gli esercizi sono organizzati per settimane, divise in 3 unità.
 
+*  Unit 1: Basi della Sicurezza informatica, esercizi con cisco packet tracers.
+*  Unit 2: Red Team tasks, utilizzo di kali con tools come metasploit, burp suite e altri.
+*  Unit 3: Blue Team tasks, Analisi malware e altro.
+
 ---
 
 ## 🔒 Importante Avvertenza sull'Uso Etico 🔒
